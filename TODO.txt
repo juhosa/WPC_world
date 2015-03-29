@@ -1,0 +1,1 @@
+1) Get starting location from browser
